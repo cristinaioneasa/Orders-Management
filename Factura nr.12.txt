@@ -1,0 +1,15 @@
+Factura numarul :12
+
+Produsul cumparat: paine
+Pret/bucata: 3.0
+Cantitate: 4
+
+Clientul: Cabat Ferdinand
+Adresa de facturare: Fabricii de Zahar, 68
+Email: ferdi.cabat@gmail.com
+
+
+ TOTAL plata: 12.0
+
+
+
